@@ -1,0 +1,34 @@
+I have done some testing:
+ 
+departure
+   -Amsterdam-St-Petersburg
+   -date 13-12-2010
+   -passengers 2 adults
+   -traveldays flexible=true
+return
+   -St-Petersburg-Amsterdam
+   -date 20-12-2010
+   -passengers 2 adults
+   -traveldays flexible=true
+ 
+result in code
+   -second forward on 13-12-2010 gives no via (this is also the case
+    in a lot of other dates
+
+   -the currency is not shown, only | 
+   -prices for 19-12-2010 and return on 20-12-2010
+      -code 242,47+126,41=368,88/passenger==>prices are shown per passenger
+       if I do 2 adults, 1 child, 1 infant the price is shown for 1 adult  
+      -Airbaltic site 378,88/passenger
+
+Рейс Амстердам - Санкт Петербург. Дата 13-20 декабря.
+Все примеры по этому рейсу.
+
+Flexible снят. 
+В forward попало два рейса, разное время прилета. 
+У первого рейса (прилет 21:20) указано, что он с пересадкой в Риге
+У второго рейса (прилет 06:55) не указано, что он с пересадкой в Риге.
+Также неверная бата прилёта, это 09:25 а не 06:55
+
+
+  

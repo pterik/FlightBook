@@ -1,0 +1,736 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<title>Vueling - Vuelos baratos, ofertas de hoteles, alquiler de coches</title> 
+<meta name="description" content="Vueling Airlines es una de las aerolineas low cost de mayor crecimiento en Europa. Ofrece vuelos baratos entre las principales ciudades europeas." /> 
+<meta name="keywords" content="ofertas, hotel, hoteles, alquiler, coches, vuelo, vuelos, horarios" /> 
+<meta name="google-site-verification" content="E35YRgQWPp468JkQXnrChaTJ_LNHXJQNEQTms25YO5s" /> 
+<meta name="y_key" value="f734a4111bffab60"> 
+	<script type="text/javascript" language="JavaScript" >var s_account='vuelingprod';</script> 
+	<script type="text/javascript" language="JavaScript" src="/script/s_code.js"></script> 
+	<script type="text/javascript" src="/js/jquery.js"></script> 
+	<script type="text/javascript"> 
+		var paramsHome = {};
+		paramsHome['language']="EN";
+		paramsHome['url']=location.href;
+		paramsHome['flashfile']="random_business_EN.swf";
+		paramsHome['time_out']="5";
+	</script> 
+	<script type="text/javascript" src="/js/personalizacionHome.js"></script> 
+	
+<script src="/script/AC_OETags.js" language="javascript"></script> 
+<script src="/script/flash_home.js" type="text/javascript"></script> 
+ 
+<script type='text/javascript'>var AtaglanceStaticToday = "20101006"; var xjs_is_valid_js_static = true;var day_xjs = "07";var month_xjs = "201010";</script> 
+<script type='text/javascript'>var AtaglanceStaticToday = "20101006";</script> 
+<!-- #Javascript estatic --> 
+<script language='Javascript' type='text/javascript' src='/skylights/js/auto/home_templates_EN.js'></script> 
+<!-- ver.66e962f0a3835db54b442106d6560d80_EN --> 
+<script language='Javascript' type='text/javascript' src='/skylights/js/airports.js'></script> 
+<script language='Javascript' type='text/javascript' src='/skylights/js/balanceHeight.js'></script> 
+<script language='Javascript' type='text/javascript' src='/skylights/js/SB/login.js'></script> 
+<script language='Javascript' type='text/javascript' src='/skylights/js/changeClass.js'></script> 
+<script language='Javascript' type='text/javascript' src='/skylights/js/dateValidation.js'></script> 
+<script language='Javascript' type='text/javascript' src='/skylights/js/SB/ataGlanceSearch.js'></script> 
+<script language='Javascript' type='text/javascript' src='/skylights/js/SB/search.js'></script> 
+<script language='Javascript' type='text/javascript' src='/skylights/js/showDiv.js'></script> 
+<script language='Javascript' type='text/javascript' src='/skylights/js/logica-vuelos.js'></script> 
+<script language='Javascript' type='text/javascript' src='/skylights/js/vueling.js'></script> 
+<script language='Javascript' type='text/javascript' src='/skylights/js/openCalendar.js'></script> 
+<link href="/css/reset.css" rel="stylesheet" type="text/css" /> 
+<link href="/css/base.css" rel="stylesheet" type="text/css" /> 
+<link href="/css/standard.css" rel="stylesheet" type="text/css" /> 
+<link href="/css/logos.css" rel="stylesheet" type="text/css" /> 
+</head> 
+ 
+ 
+<body > 
+<!-- EXTREMO WEBOSCOPE COPYRIGHT WEBORAMA--> 
+<div id="all"> 
+	<div class="cabecera_especial_myvueling"> 
+	<!-- Tope de myvueling --> 
+	<div id="tope_myvueling_portada"> 
+	<div class="derecha"> 
+		&nbsp;<a href="/booking/myvueling/"><img src="/img/myvueling/right_portada_myvueling.jpg"/></a> 
+	</div> 
+</div> 
+<script src="/skylights/js/jquery.js" type="text/javascript" language="javascript"></script> 
+<script src="/js/myvueling_compra.js" type="text/javascript" language="javascript"></script> 
+ 
+	<script type="text/javascript" language="javascript"> 
+	
+	es_myvueling="";
+	add_tope_skylights("true","EN");
+	
+		
+	</script> 
+<!-- Fin de Tope de myvueling --> 
+	</div> 
+	<div id="newContenedor" class="portada"> 
+		<!--INICIO BUSCADOR--> 
+		<!--MODO PROMOCIONES--> 
+		<!-- START STATIC SEARCH --> 
+ 
+ 
+<!--
+//////////////////////////////////////////////////////////////////////////////
+//    Copyright(c) 2000 - 2006 Navitaire Inc.  All rights reserved.         //
+//                                                                          //
+//    This source code is protected by copyright law and international      //
+//    treaties.  Unauthorized reproduction, distribution or alteration      //
+//    of this source code, or any portion of it, may result in severe       //
+//    civil and criminal penalties and will be prosecuted to the maximum    //
+//    extent possible under the law.                                        //
+//                                                                          //
+//  Skylights 9.6                                        www.navitaire.com  //
+//////////////////////////////////////////////////////////////////////////////
+--> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		<link rel="shortcut icon" href="/img/favicon.ico"> 
+		<script language="Javascript" type="text/javascript"> 
+		<!--
+			if (!document.getElementById) 
+			{
+				top.location.replace('../html/EN/browserupgrade.html');
+			}
+		//-->
+		</script> 
+		
+<form class='formNoPad' name='skyForm' id='skyForm' action=''> 
+ 
+	<input type='hidden' name='month_selected' value='' /> 
+	<input type='hidden' name='sector' value='' /> 
+	<input type='hidden' name='dayControl' value='' /> 
+	<input type='hidden' name='monthControl' value='' /> 
+	<input type='hidden' name='dNow' value='06' /> 
+	<input type='hidden' name='mNow' value='10' /> 
+	<input type='hidden' name='yNow' value='2010' /> 
+	<input type='hidden' name='dMax' value='26' /> 
+	<input type='hidden' name='mMaxToDisplay' value='6' /> 
+</form> 
+ 
+ 
+				<form method='post' name="skylightsForm" id="skylightsForm" action='/booking/booking/selecciona-tu-vuelo'> 
+		
+			
+			<input type='hidden' name='event' value='' /> 
+			<input type='hidden' name='module' value='SB' /> 
+			<input type='hidden' name='page' value='COMPACT' /> 
+			<input type='hidden' name='language' value='EN' /> 
+	
+ 
+		<input type='hidden' name='mode' value='' /> 
+			<input type='hidden' name='sid' value='' /> 
+			<input type='hidden' name='ref' value='' /> 
+		<div id="esquerra"> 
+	<!-- INICIO dAtaGlanceUtil.wld --> 
+ 
+<!-- <input type="hidden" name="selectedUtil" value="" id="selectedUtilInput"> --> 
+ 
+<!-- FIN dAtaGlanceUtil.wld --> 
+ 
+ 
+ 
+ 
+ 
+ 
+<!--module_id: SB  module: SB--><!-- INICIO dVuelingFareFinder.wld --> 
+ 
+ 
+ 
+ 
+<!-- FIN dVuelingFareFinder.wld --> 
+		<script language="Javascript" type="text/javascript" src="/skylights/js/ajaxloader.js"></script> 
+<!--Check_Module--><!--Check_Module--><!--Check_Module--><!--module_id: SB  module: SB--><!--pageActual: COMPACTXJS  page_key: COMPACTXJS--><!--style_sheet1: /css/estilos.css  div_contenedor: contenedor--> 
+<div id="trespasingSpanContent_GERMANWINGS" style="display:none"><div id="top"><div class="left"></div><div class="center"></div><div class="right"></div></div><div class="middle" ><div class="flash" align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="433" height="120"><param name="movie" value="/img/thirdCompany/transicion_top.swf" /><param name="quality" value="high" /><embed src="/img/thirdCompany/transicion_top.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="433" height="120" ></embed></object></div><div id="loadimageDiv" style="display:none;position:absolute;width:80%;text-align:center"><img src="/img/thirdCompany/loading.gif"></div><span id="trespasingSpanContent"><p>This flight is operated by <span class="w_bold">Germanwings.</span></p><p>We are redirecting you to the company’s website so that you can book the <span class="w_bold" id="fromToDiv"></span>&nbsp;flight.</p><span id="trespasingSpanContentButton"><div id="botonFAREF" class="botonFAREF" style="margin:25px 0 0 25px;"><a href="javascript:urlForGermanWings('www.germanwings.com','EN');executevuelingTrakingFunctions('X-Selling Germanwings','Aceptar',document.getElementById('from1Select').value + '-' + document.getElementById('to1Select').value);" id="compactButton" onclick="" class="w_12" style="float:left"><span>Accept</span></a><a href="javascript:" id="compactButtonCancell" onclick="showcardDisplay(false);executevuelingTrakingFunctions('X-Selling Germanwings','Cancelar',document.getElementById('from1Select').value + '-' + document.getElementById('to1Select').value);" class="w_12" style="float:right"><span>Choose again</span></a></div></span></span></div><div id="bottom"><div class="left"></div><div class="center"></div><div class="right"></div></div></div><div id="trespasingSpanContent_SKYEXPRESS" style="display:none"><div id="top"><div class="left"></div><div class="center"></div><div class="right"></div></div><div class="middle" ><div class="flash" align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="433" height="120"><param name="movie" value="/img/thirdCompany/transicion_top.swf" /><param name="quality" value="high" /><embed src="/img/thirdCompany/transicion_top.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="433" height="120" ></embed></object></div><div id="loadimageDiv" style="display:none;position:absolute;width:80%;text-align:center"><img src="/img/thirdCompany/loading.gif" /></div><span id="trespasingSpanContent"><p>This flight is operated by <span class="w_bold">skyexpress.</span></p><p>We are redirecting you to the company’s website so that you can book the <span class="w_bold" id="fromToDiv"></span>&nbsp;flight.</p><span id="trespasingSpanContentButton"><div id="botonFAREF" class="botonFAREF" style="margin:25px 0 0 25px;"><a href="javascript:window.location='http://www.skyexpress.ru';executevuelingTrakingFunctions('X-Selling Sky Express','Aceptar',document.getElementById('from1Select').value + '-' + document.getElementById('to1Select').value);" id="compactButton" onclick="" class="w_12" style="float:left"><span>Accept</span></a><a href="javascript:" id="compactButtonCancell" onclick="showcardDisplay(false);executevuelingTrakingFunctions('X-Selling Sky Express','Cancelar',document.getElementById('from1Select').value + '-' + document.getElementById('to1Select').value);" class="w_12" style="float:right"><span>Choose again</span></a></div></span></span></div><div id="bottom"><div class="left"></div><div class="center"></div><div class="right"></div></div></div> 
+<div id="newBuscador" class="yellow"> 
+<div id="logo_vueling"> 
+	<h1></h1> 
+		
+		<a href='http://www.vueling.com/?language=EN'> 
+		
+		<img src="/skylights/images/logo/logo_EN.gif" alt="Vueling Airlines" border=0 onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones Home ' + xjs_language,'Buscador','Logo');}"> 
+		</a> 
+	</div> 
+	<div id="form_buscador"> 
+	
+	<div id="tabs"> 
+		<div id="tabvols"> 
+			<ul> 
+<li id="volhotel"><a href="/EN/" onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones Home ' + xjs_language ,'Buscador','Vuelos');}">FLIGHTS</a></li><li id="hotel"><a href="http://hotel.vueling.com/?label=vlng-tab-home&lang=en" onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones Home ' + xjs_language ,'Buscador','Hoteles');}">Hotels</a></li><li id="cotxe"><a href="https://cars.vueling.com/?lang=en" onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones Home ' + xjs_language ,'Buscador','Coches');}">cars</a></li>			</ul> 
+		</div> 
+	</div> 
+ 
+ 
+ 
+ 
+	
+ 
+	
+	
+		
+		<div id="route_type"> 
+		
+		<label for="roundTripRadio"
+
+		><input type="radio" name="travel" value='2' checked='checked' onClick="swapTravel()" id="roundTripRadio">Round Trip</label> 
+			
+			<label for="oneWayRadio"
+
+				> 
+			<input type="radio" name="travel" value='1'   onClick="swapTravel()" id="oneWayRadio"> 
+			
+				One Way</label> 
+			
+		
+		</div> 
+	
+ 
+<div id="cities"><label for="from1Select"> 
+<select name='from1' size='1' onChange="resetDest(1)" class='first_field sel_long' id="from1Select"> 
+	<option value='???'>Origin</option> 
+ 
+ 
+</select> 
+</label> 
+<label for="to1Select"> 
+<select name='to1' class='sel_long' id="to1Select" onChange="setDest( 1 )" size='1' > 
+	<option value=''>Destination</option> 
+ 
+</select> 
+	</label> 
+ 
+		<input type="hidden" name='from2' value='' > 
+		<input type="hidden" name='to2' value='' > 
+	
+</div> 
+ 
+ 
+<div id = "dateSel1" >		
+	<dl> 
+ 
+	<input type="hidden" name="departDay1"  id="departDay1Select" value="06"/> 
+	<input type="hidden" name="departMonth1" id="departMonth1Select" value="102010"/> 
+ 
+	<dt id="departDayLabel1"
+
+	>Departing</dt> 
+ 
+	
+	<dd><input type="text" name="displayDate1" id="displayDate1" value=""
+
+	       onclick="javascript:loadCalendar('calendario_buscador1', 'iFrame_calendario1', 'calendar_1', document.getElementById('displayDate1'), Array('departDay1Select','departMonth1Select') )"
+
+		   readonly="readonly"/> 
+ 
+		<img src="/skylights/images/SB/ico_calendar_buscador.gif"
+
+		     onclick="javascript:loadCalendar('calendario_buscador1', 'iFrame_calendario1', 'calendar_1', document.getElementById('displayDate1'), Array('departDay1Select','departMonth1Select') )"
+
+		     width="18" height="18" id="calendar_1" border="0" alt=""/></dd></dl> 
+ 
+		<iframe scrolling="no" frameborder="0" id="iFrame_calendario1" name="iFrame_calendario1"></iframe> 
+		<div id="calendario_buscador1" name="calendario_buscador1"></div> 
+ 
+ 
+			
+			<input type="hidden" name="depart1FlexBy" size='1' id="depart1FlexBySelect"> 
+			
+ 
+	
+	</div> 
+ 
+	
+	<script language="JavaScript"> 
+		var day_now = new Date();
+		var data_js = "20101006";
+		var mes_low = data_js.substr(4,2) - 1;
+		
+		day_now.setFullYear(data_js.substr(0,4),mes_low,data_js.substr(6,2));
+		
+		var day_now_week = day_now.getDay();
+		if (day_now_week == 0) day_now_week = 6;
+		else day_now_week = day_now_week - 1;
+		
+		
+			document.skylightsForm.displayDate1.value = searchText.weekday[day_now_week] + ' ' + data_js.substr(6,2) + ' ' + searchText.months[mes_low] + ', ' + data_js.substr(0,4);
+			setDate( "departDay1", "departMonth1", "20101006" );
+		
+	</script> 
+	
+ 
+<div id = "dateSel2" >		
+	<dl> 
+ 
+	<input type="hidden" name="departDay2"  id="departDay2Select" value="06"/> 
+	<input type="hidden" name="departMonth2" id="departMonth2Select" value="102010"/> 
+ 
+	<dt id="departDayLabel2"
+
+	>Returning</dt> 
+ 
+	
+	<dd><input type="text" name="displayDate2" id="displayDate2" value=""
+
+	       onclick="javascript:loadCalendar('calendario_buscador2', 'iFrame_calendario2', 'calendar_2', document.getElementById('displayDate2'), Array('departDay2Select','departMonth2Select') )"
+
+		   readonly="readonly"/> 
+ 
+		<img src="/skylights/images/SB/ico_calendar_buscador.gif"
+
+		     onclick="javascript:loadCalendar('calendario_buscador2', 'iFrame_calendario2', 'calendar_2', document.getElementById('displayDate2'), Array('departDay2Select','departMonth2Select') )"
+
+		     width="18" height="18" id="calendar_2" border="0" alt=""/></dd></dl> 
+ 
+		<iframe scrolling="no" frameborder="0" id="iFrame_calendario2" name="iFrame_calendario2"></iframe> 
+		<div id="calendario_buscador2" name="calendario_buscador2"></div> 
+ 
+ 
+			
+			<input type="hidden" name="depart2FlexBy" size='1' id="depart2FlexBySelect"> 
+			
+ 
+	
+	</div> 
+ 
+	
+	<script language="JavaScript"> 
+		var day_now = new Date();
+		var data_js = "20101006";
+		var mes_low = data_js.substr(4,2) - 1;
+		
+		day_now.setFullYear(data_js.substr(0,4),mes_low,data_js.substr(6,2));
+		
+		var day_now_week = day_now.getDay();
+		if (day_now_week == 0) day_now_week = 6;
+		else day_now_week = day_now_week - 1;
+		
+		
+			document.skylightsForm.displayDate2.value = searchText.weekday[day_now_week] + ' ' + data_js.substr(6,2) + ' ' + searchText.months[mes_low] + ', ' + data_js.substr(0,4);
+			setDate( "departDay2", "departMonth2", "20101006" );
+		
+	</script> 
+	
+ 
+ 
+<div id="buscar_fechas"> 
+ 
+		<dl><dt>Search for dates</dt> 
+				<dd><select name="fechas" id="fechas" class="sel_long" onChange="Set_Buscar_Fechas();"> 
+					
+									<option value="0000">Only selected days</option> 
+ 
+									<option value="0101" selected="selected">1 day earlier/later</option> 
+ 
+									<option value="0202">2 days earlier/later</option> 
+ 
+									<option value="9999">Choose any day</option> 
+								</select> 
+		</dd></dl> 
+	</div> 
+ 
+ 
+	<div id="pasajeros"> 
+	<dl><dt> 
+	
+N? Passengers</dt> 
+<dd class='first_field'> 
+	<select name="ADULT" size='1' class='sel_short' id="ADULTSelect" onChange="gotoGroup(this);"> 
+	
+</select> 
+		<label> 
+ 
+			
+ 
+		
+ 
+		</label> 
+		</dd> 
+		 <input type='hidden' name='defaultADULT' value='-1' > 
+<dd class='first_field'> 
+	<select name="CHILD" size='1' class='sel_short' id="CHILDSelect" onChange="gotoGroup(this);"> 
+	
+</select> 
+		<label> 
+ 
+		
+ 
+			2 to 11 years
+ 
+		</label> 
+		</dd> 
+		 <input type='hidden' name='defaultCHILD' value='-1' > 
+ 
+		<dd><select name='INFANT' size='1' class='sel_short' id='INFANTSelect'> 
+			
+		</select> 
+		<label>1 to 23 months
+		</label></dd></dl> 
+		<input type='hidden' name='defaultINFANT' value='-1' /> 
+	</div> 
+ 
+ 
+						<input type='hidden' name='toCity1'		value="???" > 
+			<input type='hidden' name='toCity2'		value="???" > 
+			<input type='hidden' name='departDate1' value='' > 
+			<input type='hidden' name='departDate2' value='' > 
+			<input type='hidden' name='numberMarkets' value='' > 
+						<!-- INICIO Cualquier dia --> 
+			
+				<input type="hidden" id='cualquier' name='cualquier' value=""> 
+				<input type="hidden" id='nom_cualquier' name='nom_cualquier' value=""> 
+				<input type="hidden" id='m1_cualquier' name='m1_cualquier' value=""> 
+				<input type="hidden" id='m2_cualquier' name='m2_cualquier' value=""> 
+			
+			<!-- FIN Cualquier dia --> 
+			
+			
+ 
+			
+			
+			<div id="residente"> 
+			
+			
+				<input onclick="javascript:swapFam();" type='checkbox' name='cFamNum' id="cFamNum" checked =  /> 
+				<label onclick="javascript:PopUp_FamNum(0);" onmouseover="this.style.cursor='pointer';this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'"> 
+Resident</label> /			
+				<label onclick="javascript:PopUp_FamNum(1);" onmouseover="this.style.cursor='pointer';this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'" > 
+Large Family</label>			
+				
+				<div id="famNum" style="display: none" > 
+					<select name="frdisc" size="1" id="frdisc" class="sel_long" onchange="javascript:onDescuentos()" > 
+					<option value=""></option><option value="res"  >Resident on islands or Ceuta</option><option value="fam1"  >Large family General</option><option value="fam2"  >Large family Special</option><option value="famres1"  >Large family General resident</option><option value="famres2"  >Large family Special resident</option> 
+					</select> 
+				</div><!-- si usuario selectiona residente o famnum y pulse atras o recargar pagine, decheckea el checkbox --> 
+				<script type='text/javascript'>if (document.getElementById('famNum').style.display == 'none'){
+				document.getElementById('cFamNum').checked = false; } </script> 
+				<input type="hidden" id="mode_orig" name="mode_orig" value="" /> 
+			</div> 
+ 
+ 
+			<div align="center"> 
+				<p class="button_S11"><a href="javascript:submitSearch(20101006 , 20110326)" target="_self" onclick="s_objectID='EN'; if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones Home ' + xjs_language,'Buscador','Buscar');}" class="bt_buscador"><span>&nbsp;Search &nbsp;</span></a></p> 
+			</div> 
+		</div> 
+ 
+		<div id="bottom_buscador"></div> 
+	</div> 
+ 
+<table style="float:left; margin-top:20px;"> 
+ 
+ 
+</table> 
+ 
+	
+ 
+	<script src="/skylights/js/set_params.js" type="text/javascript"></script> 
+	
+ 
+<script language="javascript"> 
+	var xjs_page_id = "COMPACTXJS";
+	var xjs_page_id_aux = "COMPACT";
+	var xjs_h_ori = "";
+	var xjs_promo_mode = "";
+	var xjs_flight_key = "";
+	var xjs_index_pax = "";
+	var xjs_input_page = "COMPACTXJS";
+	var xjs_info = "/mantenimiento_js/generator.php?stdin_server=http://149.122.160.190&stdout_dir=search/";
+	var xjs_module_id = "SB";
+	var xjs_event = "";
+	var xjs_mode = "";
+	var xjs_url_diff = "";
+	var xjs_city_diff = "";
+	var xjs_host_url = "";
+	var xjs_language = "EN";
+	var xjs_request_uri = "/skylights/cgi-bin/skylights.cgi?module=SB&page=COMPACTXJS&language=&mode=&INCLUDE=&sid=&showLang=off&path=:..:mantenimiento_js:..:generator.php?stdin_server?http::..::..:149.122.160.190:-:stdout_dir?search:..:&is_valid_js_static=1&language=EN";
+	var xjs_fain = "generator.php?stdin_server=http:";
+	var xjs_input_params = new Array();
+	var xjs_url_host = "http://www.vueling.com";
+	var xjs_holdPnr = ("")?"holdPnr":"0";
+ 
+</script> 
+ 
+ 
+	<script src="/skylights/js/idiomas.js" type="text/javascript"></script> 
+	<script src="/skylights/js/popup_legal.js" type="text/javascript"></script> 
+ 
+ 
+ 
+ 
+		</div> 
+	</form>	<script language='JavaScript'><!--
+	onLoadAtaGlance();
+	//--></script> 
+<!-- END STATIC SEARCH --><script>fillSelectSearchXJS();</script>		<!--FIN BUSCADOR--> 
+		<!-- centro --> 
+		<div id="newCentro"> 
+			<!-- Inicio Cabecera --> 
+			
+		<div id="header"> 
+			<div id="menu" class="boton"> 
+				<a style="width:162px" target="_top" onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones Home ' + xjs_language,'MenuTop','Check-in');}" href=/checkin/index.php?menuOption=webcheckin&language=EN><span>Check-in Online</span></a><a style="width:162px" target="_top" onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones Home ' + xjs_language,'MenuTop','Ciudades');}" href=/cities/index.php?menuOption=ciudades&language=EN&idMenu=4><span>Vueling Cities</span></a><a style="width:162px" target="_top" class="ult" onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones Home ' + xjs_language,'MenuTop','Servicios vueling');}" href=/serviciosVueling/index.php?menuOption=productos&language=EN&idMenu=3><span>Services</span></a><a style="width:162px" target="_top" onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones Home ' + xjs_language ,'MenuTop','Cambios');}" href="/booking/cambios/?menuOption=cambios&module=C3&page=PNR_LOOKUP&language=EN"><span>Changes and Itinerary</span></a><a style="width:162px" target="_top" onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones Home ' + xjs_language,'MenuTop','Informacion');}" href=/info_util/info.php?menuOption=info&language=EN&idMenu=9><span>Useful Info</span></a><a style="width:162px" target="_top" class="ult" onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones Home ' + xjs_language,'MenuTop','Punto');}" href=/punto/index.php?menuOption=points&language=EN><span>Punto Program</span></a>			</div> 
+		</div> 
+			<!-- Fin Cabecera --> 
+			<!-- Inicio IndexBanners --> 
+			<script type="text/javascript"> 
+function showHide(elemento,modo) { 
+	objeto = document.getElementById(elemento); 
+	objeto.style.display = (objeto.style.display==modo)?'none':modo; 
+}</script> 
+ 
+ 
+						<div id="newFlashome" class="portada" > 
+				<div id="banner"> 
+				
+				<!--<div id="capa_alertas" style="z-index:10; position:absolute; display:block;"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="325" height="352" title="alertas">
+                <param name="movie" value="/img/home/alertas_EN.swf" />
+                <param name="quality" value="high" />
+				<param name="wmode" value="transparent">
+                <embed src="/img/home/alertas_EN.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="325" height="352" wmode="transparent"></embed>
+              </object>
+			  </div>--> 
+				                                         <div id="bannerAjax"> 
+                                        </div> 
+                   
+										
+ 
+									</div> 
+				
+				<div id="alertas"> 
+																		<div id="alertasAjax1"> 
+							</div> 
+							<div id="alertasAjax2"> 
+							</div> 
+							<div id="alertasAjax3"> 
+							</div> 
+						     
+						
+				</div> 
+				
+			</div> 
+						<!-- Inicio Banners --> 
+			<script type="text/JavaScript"> 
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script> 
+ 
+<div id="logos" class="EN"> 
+		    <ul><li id="logo_groups" class="grey"><h2><a href="http://groups.vueling.com/dev/clickair/resGrupo.nsf/pagina?OpenForm&lang=2"" onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones Home ' + xjs_language ,'Pictogramas','Grupos');}"><span>Group Reservations</span>&nbsp;</a></h2></li><li id="logo_cars" class="yellow"><h2><a href="/cars/EN/?origin=vuelinghome"" onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones Home ' + xjs_language ,'Pictogramas','Coches');}"><span>Car Rentals</span>&nbsp;</a></h2></li><li id="logo_newsletter" class="green"><h2><a href="/newsletter/index.php?language=EN"" onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones Home ' + xjs_language ,'Pictogramas','Newsletter');}"><span>newsletter</span>&nbsp;</a></h2></li><li id="logo_ff" class="red bt_logo_right"><h2><a href="/booking/fare-finder?module=SB&page=FAREFINDER&nom=2&ADULT=1&mode=&language=EN&sid="" onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones Home ' + xjs_language ,'Pictogramas','Fare Finder');}"><span> Find the lowest fare</span>&nbsp;</a></h2></li></ul></div>			<!-- Fin Banners --> 
+			<!-- Fin IndexBanners --> 
+			<!-- Fin Centro --> 
+		</div> 
+	</div> 
+	<!-- Inicio Footer --> 
+	
+	<div id="newFooter" class="w_10 w_grey"> 
+		<div id="menubottom"> 
+		<div id="idioma"> 
+		      <form name="footerForm"> 
+		        				<p><label>Language&nbsp;&nbsp;&raquo;&nbsp;&nbsp;</label> 
+		        <select class="w_grey" onchange="footerIdiomas()" name="idioma"> 
+			  <option value="CA">Catal&agrave</option><option value="EN" selected="selected">English</option><option value="ES">Espa&ntilde;ol</option><option value="EU">Euskara</option><option value="FR">Fran&ccedil;ais</option><option value="GA">Galego</option><option value="IT">Italiano</option><option value="NL">Nederlands</option><option value="PT">Portugu&ecirc;s</option>			  			  
+			
+		</select></form></p> 
+		</div> 
+		<div id="bt_menubottom"><ul> 
+		 
+      <li><a onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones&nbsp;Home ' + xjs_language,'Footer','About Vueling');}" target=_top rel=nofollow href=/vueling/index.php?language=EN&idMenu=5>About Vueling</a> | </li> 
+     <!--<li> | </li>--> 
+	    	    <li><a onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones&nbsp;Home ' + xjs_language,'Footer','Empresas');}" target=_top rel=nofollow href=/loginCORP.php?language=EN>Corporate</a> | </li> 
+		  <li><a onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones&nbsp;Home ' + xjs_language,'Footer','Agencias');}" target=_top rel=nofollow href=/loginTA.php?language=EN>Agencies</a> | </li> 
+	    		  <li><a onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones&nbsp;Home ' + xjs_language,'Footer','Horarios');}" target=_top href=/EN/schedule/flight-schedule.php>Flight Schedule</a> | </li> 
+		  <li class="bt_mb_right"><a onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones&nbsp;Home ' + xjs_language,'Footer','Contacto');}" target=_top rel=nofollow href=/vueling/contact.php?language=EN&idMenu=7>Contact us</a></li> 
+		 
+		  </ul></div> 
+		</div> 
+		<div id="copyright"><p class="w_9 w_grey"><span class="w_lightgrey">© 2010 Vueling Airlines SA</span> | <a href=# onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones&nbsp;Home ' + xjs_language,'SubFooter','Condiciones&nbsp;Site');}popupLegal('EN')">Website conditions of use</a> |    <a onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones&nbsp;Home ' + xjs_language,'SubFooter','Inversores');}" target=_top rel=nofollow href=/investors/inicio.php?language=EN>Shareholders</a> |  <a onclick="if(xjs_mode=='' && readableVal=='/readable/SB/HomePage'){vuelingTracker._trackEvent('Botones&nbsp;Home ' + xjs_language,'SubFooter','Mapa Web');}" target=_top rel=nofollow href=/info/webmap.php?language=EN>Web map</a></p> 
+		</div> 
+	</div> 
+		<script language="javascript"><!--
+ 
+	function footerIdiomas()
+	{	
+	  var str = location.href;
+	  var formElements = document.forms["footerForm"].elements;
+	  var newLanguage = formElements["idioma"].value;
+	  var newStr = "language=" + newLanguage;
+	  
+	  if (-1 < str.search(/\?/))
+      {
+         str = str.replace(/\?.*/,"");
+      }
+      
+            
+      str = str + "?" + newStr + "" + "";
+      	  	 
+      window.location = str;		
+ 
+	}
+	//--></script> 
+	
+<script src="/skylights/js/thirdCompanyComonScripts.js" language="javascript"></script> 
+<div class="cardDisplayPopupMask" name="cardDisplayContentPopupMask" id="cardDisplayContentPopupMask" style="display: none; LEFT: -10px; WIDTH: 995px; TOP: -10px; HEIGHT: 544px">&nbsp;</div> 
+<iframe id="ieiframe" name="ieiframe" src="" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" style="display: none; position:absolute; filter:alpha(opacity=0);"></iframe> 
+<div id="cardDisplay" style="display:none" > 
+</div> 
+			<script type="text/javascript" src="/thirdparty/google_analytics/mxga-campaigns.js"></script> 
+			<script type="text/javascript"> 
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." :
+			"http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'type='text/javascript'%3E%3C/script%3E"));
+			</script> 
+				<!-- Inicio codigo Google Analytics --> 
+		<script type="text/javascript"> 
+			function my_js_isset(variable_name) {
+				try {
+					 if (typeof(eval(variable_name)) != 'undefined')
+					 if (eval(variable_name) != null)
+					 return true;
+				 } catch(e) { return false; }
+				return false;
+		   }
+			if(my_js_isset(document.skylightsForm) && my_js_isset(document.skylightsForm.numberMarkets) && document.skylightsForm.numberMarkets.value == 1){ typeEventCompact = 'XG';}else{ typeEventCompact = 'XG-XG';}
+ 
+			var vuelingTracker = _gat._getTracker("UA-117815-1");
+ 
+			var mdom = "none";
+ 
+			vuelingTracker._setDomainName(mdom);
+			vuelingTracker._setAllowHash(false);
+			vuelingTracker._setAllowLinker(true);
+			vuelingTracker._setCookieTimeout("2592000");
+			var cs = new campaignStack();
+			cs._isNewVisit();
+			var idioma = "/EN";
+			var modeVal = "/STDR";
+			var pathGA = location.pathname;
+			if(pathGA.charAt(pathGA.length-1)=="/"){
+				pathGA = pathGA.substring(0,pathGA.length-1) + pathGA.substring(pathGA.length-1).replace("/","/index.php");
+			}
+			var baseurl = pathGA + location.search;
+			var readableVal = "/readable/SB/HomePage";
+			
+ 
+			var trackerVal = idioma+modeVal+baseurl+"&mxr="+readableVal;            
+			
+			vuelingTracker._trackPageview(trackerVal);
+			cs._recover();
+			cs._proc();
+		</script> 
+		<!-- Fin codigo Google Analytics --> 
+	<!—-p_size=0--><!—-g_size=60--><!—-s_size=0--><!—-c_size=3080-->	<!-- Fin Footer --> 
+</div> 
+	<script type="text/javascript" language="javascript"> 
+		es_myvueling="";
+	</script> 
+<script>var elem   = document.createElement('input');elem.type  = 'hidden';elem.name  = 'mode_TESTAB';elem.value = 'FyYuLxIOU1Q5UFYFcw9cVikyIQ==';document.getElementById('skylightsForm').appendChild(elem);</script><!-- Inicio weborama --> 
+		 <script language="javascript"> 
+			var WRP_HOST='vuelinges2010.solution.weborama.fr';
+			var WRP_ID=420149;
+			var WRP_SECTION='H1';
+			var WRP_SUBSECTION='H1';
+			var WRP_CONTENT;
+			var WRP_CHANNEL;
+			/* Frame depth */
+			var WRP_ACC;
+			document.write('<scr'+'ipt src="http://cstatic.weborama.fr/js/products.js"></scr'+'ipt>');
+		</script> 
+		<img  width="1" height="1" src="http://aimfar.solution.weborama.fr/fcgi-bin/adprofil.fcgi?k=VUELING&v=H1&d=70"> 
+	<!-- Fin weborama --> 
+		<script type="text/javascript" src="/skylights/js/writeCookie.js" language="javascript"></script> 
+		<script type="text/javascript"> 
+			cookieDomain = 'path=/';
+			eqSeparator  = '~eq~';
+			maxCookies = '20';
+			cookieDate = '20101007195231';
+			executeTagsCookie();
+	</script> 
+		
+	<!-- Debut code weboscope performance RefNat --> 
+                <script type="text/javascript">var webo_performance_rnat=0;</script> 
+                <script type="text/javascript" src ="/skylights/js/wbo_performance_seo_vueling.js"></script> 
+                    <script type="text/javascript"> 
+                               if (webo_performance_rnat) { 
+                                               var refnat = new performanceRefNat(); 
+                                               refnat.setParseOthers(0); /* 0 or 1 to put it active on all domains */ 
+                                               refnat.execute(); 
+                               } 
+                </script> 
+        <!-- Fin code weboscope performance --> 
+ 
+	<script type="text/javascript" language="JavaScript" >var s_account='vuelingprod';</script> 
+ 
+<!-- SiteCatalyst code version: H.10.
+Copyright 1997-2007 Omniture, Inc. More info available at
+http://www.omniture.com --> 
+<script language="JavaScript" src="/script/s_code.js"></script> 
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on the next lines. */
+ 
+s.pageName="Pagina de Inicio";
+s.server=window.location.host;
+s.channel="Pagina de Inicio";
+s.pageType="";
+s.prop1="Pagina de Inicio";
+s.prop2="ES";
+s.prop5="AB18";
+s.prop7="";
+s.prop8="";
+s.prop9="";
+s.prop10="";
+s.prop11="";
+s.prop12="";
+s.prop15="";
+s.prop18="CUSTOMER";
+s.prop19="";
+s.prop20="";
+s.prop40="";
+s.prop41="";
+s.prop42="";
+s.prop43="";
+s.prop44="";
+s.prop45="";
+s.prop46="";
+s.prop47="";
+s.prop48="";
+s.prop49="";
+ 
+s.hier1="PaginadeInicio";
+ 
+/* E-commerce Variables */
+s.campaign="";
+s.state="";
+s.zip="";
+s.events="";
+s.purchaseID="";
+s.eVar1="";
+s.eVar3="";
+s.eVar4="";
+s.eVar7="";
+s.eVar8="";
+s.eVar9="";
+s.eVar10="";
+s.eVar12="";
+s.eVar15="AB18";
+s.eVar16="";
+s.eVar17="";
+s.eVar18="";
+s.eVar19="";
+s.eVar28="ES";
+s.eVar31="CUSTOMER";
+s.eVar40="";
+s.eVar49="";
+s.products="";
+ 
+//--></script> 
+</body> 
+</html>

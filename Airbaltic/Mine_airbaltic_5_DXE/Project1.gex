@@ -1,0 +1,7 @@
+[General]
+Name=Project1
+Project=1
+[Classes]
+Count=2
+Class0="TForm1","TForm","Unit1","0","C:\Projects\FlightBook\Airbaltic\Mine_airbaltic_5_DXE\Unit1.pas"
+Class1="TMyBrowser","TWebBrowser, IDispatch","Easyjet","0","C:\Projects\FlightBook\Airbaltic\Mine_airbaltic_5_DXE\Easyjet.pas"
